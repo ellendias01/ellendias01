@@ -16,12 +16,12 @@
 
 My name is Ellen and I'm a Brazilian
 
-- 🔭I'm a Student of Fatec , Brazil. Still in the process of learning in the world of Web Development
-- 🌱 I’m currently learning about the world of T.I 
-- 👯 I’m looking to collaborate on your open source projects
-- 📫 How to reach me: Contact part
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I never thought I would become a .net programmer!
+###- 🔭I'm a Student of Fatec , Brazil. Still in the process of learning in the world of Web Development
+###- 🌱 I’m currently learning about the world of T.I 
+###- 👯 I’m looking to collaborate on your open source projects
+###- 📫 How to reach me: Contact part
+###- 😄 Pronouns: She/Her
+###- ⚡ Fun fact: I never thought I would become a .net programmer!
 
 <br>
 
